@@ -44,7 +44,7 @@ while True:
     if repetir == 'n':
         break
 
-cabecalho('Realizando Contagem de vitórias...')
+cabecalho('Realizando as Contagens...')
 sleep(1)
 print(f'O máximo de vitórias foi: {vitorias}')
 print(f'O máximo de empates foi: {empates}')
